@@ -1,5 +1,5 @@
 안녕하세요
 신의철입니다.
 
-[![My GitHub stats](https://githubreadmestats.vercel.app/api?username=mini-apple)](https://github.com/mini-apple/g
+[![My GitHub stats](https://github-readmestats.vercel.app/api?username=mini-apple)](https://github.com/mini-apple/g
 ithub-readme-stats)
