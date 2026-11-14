@@ -1,10 +1,8 @@
-#### Hi, I'm Uicheol Shin
+### Hi, I'm Uicheol Shin
 
 I majored in Computer Science and Engineering at Pusan National University.
 
-**Interests**
-
-- Computer Vision, Software Engineering and Security
+I'm interested in **Computer Vision, Software Engineering and Security**.
 
 **Experience**
 
